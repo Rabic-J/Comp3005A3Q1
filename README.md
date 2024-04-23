@@ -1,3 +1,5 @@
 # Comp3005A3Q1
+This project was to create a terminal interface in a language of our chooseing to connect to a local postgres SQL server
+We where to preform inserts,updates, and deletes
 
-demo video "https://drive.google.com/file/d/1oVrnszLszNXlCC_knsUIdzaQWKLVcnh9/view?usp=sharing"
+My local server was done using PGadmin4
